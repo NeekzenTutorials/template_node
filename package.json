@@ -4,6 +4,7 @@
     "description": "public template for node.js project",
     "main": "index.js",
     "scripts": {
+        "serv": "node ./backend/index.js",
         "test": "jest --coverage",
         "eslint": "eslint .",
         "eslint:fix": "eslint . --fix",
