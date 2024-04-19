@@ -5,6 +5,8 @@ All files present in this project are here to present how to use express and jes
 
 There is a linter already install and git hooks are configured to prevent bad commit title, run the linter before committing and run the tests before pushing.  
 
+This project is free and open to use, you can modify what you want and use it without my permission.
+
 # How to use ?
 
 - 1. Install the package
