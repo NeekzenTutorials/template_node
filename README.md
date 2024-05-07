@@ -1,6 +1,6 @@
 # What is this project ?
 
-This is a template of Noje.js project with Express.js.  
+This is a template of Node.js project with Express.js.  
 All files present in this project are here to present how to use express and jest.
 
 There is a linter already install and git hooks are configured to prevent bad commit title, run the linter before committing and run the tests before pushing.
